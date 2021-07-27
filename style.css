@@ -132,7 +132,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: crimson;
+    background: rgb(8, 157, 216);
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -389,7 +389,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover{
-    background: crimson;
+    background: rgb(8, 157, 216);
 }
 .teams .carousel .card .box{
     display: flex;
@@ -427,7 +427,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid crimson!important;
+    border: 2px solid rgb(8, 157, 216)!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -436,7 +436,7 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: crimson!important;
+    background: rgb(8, 157, 216)!important;
 }
 /* contact*/
 .contact .title::after{
